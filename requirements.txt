@@ -1,0 +1,12 @@
+Flask
+langchain-google-genai
+google-generativeai
+pandas
+numpy
+python-dotenv
+pydantic
+fastapi
+uvicorn
+streamlit
+requests
+groq
